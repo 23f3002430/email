@@ -29,9 +29,13 @@
     { "id": "prod-87df779f-023", "name": "Pro Item 23", "category": "home", "price": 127.58, "stock": 5, "rating": 4.9 }
   ],
   "aggregations": {
-    "books": {
-      "count": 4,
-      "inventoryValue": 90081.85
-    }
+  "books": {
+    "count": 4,
+    "inventoryValue": 90081.85
+  },
+  "electronics": {
+    "count": 7,
+    "inventoryValue": 127292.62
   }
+}
 }
